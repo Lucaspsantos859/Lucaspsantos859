@@ -1,6 +1,6 @@
 ### Olá! Sou o Lucas Pereira 👋
 
-- 🌱 Estudando desenvolvimento web
+Estudante de Análise e desenvolvimento de sistemas 
 
 ##
 
